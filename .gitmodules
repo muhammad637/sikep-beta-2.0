@@ -1,3 +1,6 @@
 [submodule "sikep-mobile-beta"]
 	path = sikep-mobile-beta
 	url = https://github.com/muhammad637/sikep-mobile-beta.git
+[submodule "sikep-web-beta"]
+	path = sikep-web-beta
+	url = https://github.com/muhammad637/sikepeg.git
